@@ -7,7 +7,7 @@
 - 🌱 目前还在学习的起步阶段，希望能在计算机领域越走越远。
 - 🌱 At present, it is still in the initial stage of learning. I hope to go further and further in the field of computer.
 
-- 📫 How to reach me ...2868917285@qq.com
+- 📫 How to reach me ... 2868917285@qq.com | abooooooooooo.H@gmail.com
 
 <!---
 XHB911/XHB911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
