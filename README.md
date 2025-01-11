@@ -4,7 +4,7 @@
 
 - 🌱 At present, it is still in the initial stage of learning. I hope to go further and further in the field of computer.
 
-- 📫 How to reach me ... 2868917285@qq.com | abooooooooooo.H@gmail.com
+- 📫 How to reach me ... abooooooooooo.H@gmail.com
 
 <!---
 XHB911/XHB911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
